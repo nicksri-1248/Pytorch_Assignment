@@ -1,3 +1,5 @@
 - Tensors in PyTorch :- [Colab Notebook](https://colab.research.google.com/drive/1yeA_RyZWHSJ7bOL2QMIX5aXxHsQOcBUG?usp=sharing)
 - PyTorch Autograd :- [Colab Notebook](https://colab.research.google.com/drive/1rOavgcrZHICbudCfxwvzYs8uTKo7jM_M?usp=sharing)
 - PyTorch Training Pipeline :- [Colab Notebook](https://colab.research.google.com/drive/1w8LFlqddJO687DNqLNzYAhZdUsr4bRFc?usp=sharing)
+- PyTorch NN Module - A :- [Colab Notebook](https://colab.research.google.com/drive/1KknvyoTy5jmmVffHzDBqyV6Zy7aZiOR6?usp=sharing)
+- PyTorch NN Module - B :- [Colab Notebook](https://colab.research.google.com/drive/1RgG1fDJbDtVsV8dx2m6iILGxewxQN1Pv?usp=sharing)
