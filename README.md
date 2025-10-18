@@ -1,1 +1,2 @@
-Tensors in PyTorch :- [Colab Notebook](https://colab.research.google.com/drive/1yeA_RyZWHSJ7bOL2QMIX5aXxHsQOcBUG?authuser=2)
+Tensors in PyTorch :- [Colab Notebook](https://colab.research.google.com/drive/1yeA_RyZWHSJ7bOL2QMIX5aXxHsQOcBUG?usp=sharing)
+PyTorch Autograd :- [Colab Notebook](https://colab.research.google.com/drive/1rOavgcrZHICbudCfxwvzYs8uTKo7jM_M?usp=sharing)
