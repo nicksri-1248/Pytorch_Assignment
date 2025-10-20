@@ -7,3 +7,4 @@
 - Dataset & DataLoader - B :- [Colab Notebook](https://colab.research.google.com/drive/1wvUZS_eByJ_KM8Zv8VYKnqM1r3L-zkev?usp=sharing)
 - Building a ANN :- [Colab Notebook](https://colab.research.google.com/drive/1etMBQKneWeTnamZ7lMB86QDDqhB5eIJX?usp=sharing)
 - Neural Network Training on GPU :- [Colab Notebook](https://colab.research.google.com/drive/1h_4yHnsK02v46KNyEtrnKzjA_fS4pKi5?usp=sharing)
+- Optimizing the Neural Network :- [Colab Notebook](https://colab.research.google.com/drive/1tVJahrwTSaezcUqaQfbLIGvjoLQfZgzW?usp=sharing)
