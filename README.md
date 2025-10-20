@@ -10,3 +10,5 @@
 - Neural Network Training on GPU :- [Colab Notebook](https://colab.research.google.com/drive/1h_4yHnsK02v46KNyEtrnKzjA_fS4pKi5?usp=sharing)
 - Optimizing the Neural Network :- [Colab Notebook](https://colab.research.google.com/drive/1tVJahrwTSaezcUqaQfbLIGvjoLQfZgzW?usp=sharing)
 - Fashion MNIST Dataset :- [Dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
+- Hyperparameter Tuning the ANN using Optuna - A :- [Colab Notebook](https://colab.research.google.com/drive/16EVRITmBxiBwSaekw828IP3ZBemEsGMY?usp=sharing)
+- Hyperparameter Tuning the ANN using Optuna - B :- [Colab Notebook](https://colab.research.google.com/drive/1Af1on_KeEN1eOgvl262mnvV79lrFbgV9?usp=sharing)
