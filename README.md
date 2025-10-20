@@ -5,3 +5,4 @@
 - PyTorch NN Module - B :- [Colab Notebook](https://colab.research.google.com/drive/1RgG1fDJbDtVsV8dx2m6iILGxewxQN1Pv?usp=sharing)
 - Dataset & DataLoader - A :- [Colab Notebook](https://colab.research.google.com/drive/1RbHjvNae2GLjpuILpMUsaNhG_8RAqXmP?usp=sharing)
 - Dataset & DataLoader - B :- [Colab Notebook](https://colab.research.google.com/drive/1wvUZS_eByJ_KM8Zv8VYKnqM1r3L-zkev?usp=sharing)
+- Building a ANN :- [Colab Notebook](https://colab.research.google.com/drive/1etMBQKneWeTnamZ7lMB86QDDqhB5eIJX?usp=sharing)
